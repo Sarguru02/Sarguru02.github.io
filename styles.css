@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .top {
     background-color: #454545;
     color: #FFE6C7;
